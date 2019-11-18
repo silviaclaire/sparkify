@@ -3,3 +3,4 @@
 *.json
 *.png
 *_model/
+env/
